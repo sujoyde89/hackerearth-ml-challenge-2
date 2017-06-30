@@ -34,7 +34,7 @@ Experiment 2 proved to be the best.
 4. A simple ensemble model of xgboost, logistic regression and the stacking model was done to produce the submission file.  
 
 #### Final result
-<i><b>Our final model with a few tweaks related to the threshold for classifiaction got me a final of 25 in the leaderboard.</b></i>
+<i><b>Our final model with a few tweaks related to the threshold for classifiaction got me a final rank of 25 in the leaderboard.</b></i>
 
 #### Scope for further improvement
 1. Better feature selection
