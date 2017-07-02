@@ -23,10 +23,9 @@ It is a binary classification problem and the metric that the models for this pr
 
 #### Solution
 1. Feature creation and feature engineering was used first of all  
-2. 3 experiments were conducted:-  
+2. 2 experiments were conducted:-  
 a) Experiment 1 - Undersampling the train dataset based on time  
-b) Experiment 2 - Undersampling the train dataset to get the ratio of majority to minority class in the target variable of train dataset as 0.5  
-c) Experiment 3 - Predicting a continuous variable from the features available and then predicting the target class using the continuous variable  
+b) Experiment 2 - Undersampling the train dataset to get the ratio of majority to minority class in the target variable of train dataset as 0.5   
 
 Experiment 2 proved to be the best.
 
