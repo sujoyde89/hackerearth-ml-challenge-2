@@ -36,5 +36,5 @@ Experiment 2 proved to be the best.
 <i><b>Our final model with a few tweaks related to the threshold for classifiaction got me a final rank of 25 in the leaderboard.</b></i>
 
 #### Scope for further improvement
-1. Better feature selection
-2. Better feature engineering
+1. More feature engineering
+2. Better feature selection
